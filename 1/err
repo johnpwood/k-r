@@ -1,0 +1,7 @@
+bad.c:1:1: error: unknown type name ‘this’
+ this is not c code
+ ^
+bad.c:1:9: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘not’
+ this is not c code
+         ^
+bad.c:1:9: error: unknown type name ‘not’
